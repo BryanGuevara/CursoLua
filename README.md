@@ -9,6 +9,6 @@ Este es un curso que me encontré en internet, en este repositorio estaré guard
   - SciTE
 
 ## Progreso
-- [X] Hello World
-- [X] A mitad de camino
+- [X] ~~Hello World~~
+- [X] ~~A mitad de camino~~
 - [ ] Curso completado
